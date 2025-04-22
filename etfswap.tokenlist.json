@@ -1,0 +1,33 @@
+{
+  "name": "ETFSwap Token List",
+  "timestamp": "2024-03-19T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/devetfswap/lists/main/logo.png",
+  "keywords": [
+    "etfswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "ETFSwap",
+      "address": "0xcE6b17c16Df188fa721632b770a2ee5530589716",
+      "symbol": "ETFS",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/devetfswap/lists/main/tokens/etfs.png"
+    },
+    {
+      "name": "Synthetic SPDR S%26P 500 ETF Token",
+      "address": "0x3BA4F4E90DFe9C053b42c0A6523679b37ced6f08",
+      "symbol": "spSPY",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/devetfswap/lists/main/tokens/spspy.png"
+    }
+  ]
+} 
