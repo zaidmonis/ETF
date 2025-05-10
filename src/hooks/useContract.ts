@@ -1,6 +1,6 @@
 import { Contract } from '@ethersproject/contracts'
 import { ChainId, WETH } from '@uniswap/sdk'
-import { abi as IEtfswapV2PairABI } from '@uniswap/v2-core/build/IEtfswapV2Pair.json'
+import  IEtfswapV2PairABI from '../libs/IEtfswapV2Pair.json'
 import { useMemo } from 'react'
 import ENS_ABI from '../constants/abis/ens-registrar.json'
 import ENS_PUBLIC_RESOLVER_ABI from '../constants/abis/ens-public-resolver.json'
